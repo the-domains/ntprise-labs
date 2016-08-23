@@ -1,0 +1,14 @@
+layout_spectrum: 0.2860280417371541
+typography_spectrum: 0.23377418122254312
+color:
+  brandStrength: 0.8553025925066322
+  lightness: 0.13960134400986135
+  saturation: 0.9961843329947442
+  rhythmicContrast: 0.984283902682364
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: NT~Prise Labs
